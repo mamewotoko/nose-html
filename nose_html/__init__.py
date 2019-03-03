@@ -54,7 +54,7 @@ Changes in 0.7.1
 """
 
 import datetime
-import StringIO
+from io import StringIO
 import os.path
 import sys
 import time
